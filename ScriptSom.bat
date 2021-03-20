@@ -29,7 +29,7 @@ echo %ESC%[32m 7. Copiar todos los archivos que cumplan ciertas características
 echo %ESC%[32m 8. Chequear el disco por si hay algun fallo en el%ESC%[0m
 echo %ESC%[20m 9. Instalar desde Internet y ejecutar%ESC%[0m
 echo %ESC%[21m 10.SALIR%ESC%[0m
-echo %ESC%[22m##################################"
+echo %ESC%[22m ##################################[0m
 
 
 Rem Entradas de usuario.
@@ -138,3 +138,4 @@ if  "%opcion%" == "10" (
     if "!confirmacion!"=="S" echo opcion salir.
     if "!confirmacion!"=="N" exit /B 0
 )
+
