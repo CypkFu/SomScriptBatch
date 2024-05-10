@@ -1,8 +1,8 @@
 @ echo off
 Rem -------------------------------------
-Rem  Script SOM 
+Rem  Script 
 Rem  version 1.0 -Final
-Rem  Autor: DaniNoneC
+Rem  Autor: kerkt
 Rem  funciones del Script
 
 Rem -------------------------------------
